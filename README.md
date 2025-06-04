@@ -1,6 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-# Name:IRFAN KHAN.N
-# Reg.no:212224230097
+# Name:JIDHESH P
+# Reg.no:212223040078
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
